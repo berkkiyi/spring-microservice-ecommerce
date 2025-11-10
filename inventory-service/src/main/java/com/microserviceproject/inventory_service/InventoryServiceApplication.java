@@ -1,5 +1,4 @@
 package com.microserviceproject.inventory_service;
-
 import com.microserviceproject.inventory_service.model.Inventory;
 import com.microserviceproject.inventory_service.repository.InventoryRepository;
 import org.springframework.boot.CommandLineRunner;
